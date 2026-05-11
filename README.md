@@ -4,6 +4,9 @@ A RESTful API for managing personal expenses — built with **Node.js**, **Expre
 
 ---
 
+## 🚀 Live API
+Base URL: https://expense-tracker-api-1-xmt8.onrender.com
+
 ## 🚀 Features
 
 - **JWT Authentication** — Secure registration and login; all expense routes are protected.
